@@ -1,0 +1,99 @@
+head
+{
+    text-align: right;
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 130px;
+}
+
+.logo
+{
+    width: 300px;
+    height: auto;
+}
+
+.top, .carres, .connect
+{
+    color: black;
+    text-align: right;
+    font-family: Arial;
+    font-size: 13px;
+    float: right;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+html
+{
+    color: grey;
+    font-family: Arial;
+}
+
+.connect
+{
+    padding: 7px;
+    font-weight: bold;
+    border-radius: 3px;
+    background-color: rgb(20, 105, 255);
+    color: white;
+}
+.barre
+{
+    margin-bottom: 20px;
+    box-shadow: 1px 3px 3px 0.3px rgb(185, 185, 185);
+    border-radius: 25px;
+    font-size: 40px;
+}
+
+nav, .carres, .top, .search, .connect
+{
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+nav
+{
+    padding-bottom: 250px;
+}
+
+.search
+{
+    color: rgb(109, 109, 109);
+    font-size: 14px;
+    padding: 11px;
+    border-radius: 4px;
+    margin-right: 10px;
+    text-decoration: none;
+    background-color: rgb(241, 241, 241);
+}
+
+p
+{
+    border: 0.2px solid rgb(223, 223, 223);
+    border-left: none;
+    border-right: none;
+    background-color: rgba(238, 236, 236, 0.705);
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    margin-left: 0px;
+}
+
+.back_1, .back_2, .country
+{
+    color: rgb(85, 85, 85);
+    margin-right: 20px;
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+
+.back_2
+{
+   float: right;
+}
